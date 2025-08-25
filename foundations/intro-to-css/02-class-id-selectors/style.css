@@ -1,0 +1,19 @@
+.class1,.class2{
+    background-color:lightpink;
+    font-family: Verdana,"DejaVu Sans",sans-serif
+}
+.class2{
+    font-size:24px;
+}
+#id1,#id2{
+    font-family:"Times New Roman";
+}
+#id1{
+    color:blue;
+    font-size:36px;
+}
+#id2{
+    font-weight: bold;
+    background-color: #90ee90;
+    font-size:24px;
+}
